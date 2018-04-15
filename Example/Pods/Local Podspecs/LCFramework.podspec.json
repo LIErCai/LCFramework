@@ -1,0 +1,22 @@
+{
+  "name": "LCFramework",
+  "version": "0.1.0",
+  "summary": "A short description of LCFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LIErCai/LCFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LIErCai": "1179542975@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/LIErCai/LCFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LCFramework/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LCFramework (0.1.0)
+
+DEPENDENCIES:
+  - LCFramework (from `../`)
+
+EXTERNAL SOURCES:
+  LCFramework:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LCFramework: dd3df23dfd7ddd65c18d87c62a48c0032d856527
+
+PODFILE CHECKSUM: 99f5e05d597de3d5aa30f8efa4df7f24640e7ef3
+
+COCOAPODS: 1.4.0
