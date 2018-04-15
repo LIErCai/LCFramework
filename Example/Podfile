@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LCFramework_Tests' do
+  pod 'LCFramework', :path => '../'
+  
+  
+end
